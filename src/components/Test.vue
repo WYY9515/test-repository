@@ -13,7 +13,7 @@ export default {
   methods: {
     change () {
       console.log(this.val)
-      console.log('git push 仓库')
+      console.log('测试git消息提交')
     }
   }
 }
